@@ -8,7 +8,7 @@ npm run build
 ```
 
 # Demo showing how CommonsChunkPlugin.filename works
-The `CommonsChunkPlugin` takes a `filename` option.
+The `CommonsChunkPlugin` takes a `filename` option ([see docs here](https://webpack.js.org/plugins/commons-chunk-plugin/#options)).
 
 ``` javascript
 // webpack.config.js
